@@ -9,3 +9,8 @@
 - Curso Angular #04 - Introdução ao TypeScript para Angular
 
 - Curso Angular #05 - Módulos (ngModule)
+
+- Curso Angular #06 - Introdução aos Templates
+
+- Curso Angular #07 - Introdução aos Serviços e Injeção de Dependência (DI)
+
