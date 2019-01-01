@@ -24,3 +24,5 @@
 
 - Curso Angular #12 - Two-way data binding
 
+- Curso Angular #13 - Reusando Componentes com Input properties
+
