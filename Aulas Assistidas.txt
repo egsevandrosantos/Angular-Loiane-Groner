@@ -18,3 +18,5 @@
 
 - Curso Angular #09 - Property Binding e Interpolação
 
+- Curso Angular #10 - Class e Style binding
+
