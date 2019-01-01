@@ -22,3 +22,5 @@
 
 - Curso Angular #11 - Event binding
 
+- Curso Angular #12 - Two-way data binding
+
