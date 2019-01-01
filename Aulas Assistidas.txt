@@ -14,3 +14,7 @@
 
 - Curso Angular #07 - Introdução aos Serviços e Injeção de Dependência (DI)
 
+- Curso Angular #08 - Dicas plugins Angular para Atom e VS Code
+
+- Curso Angular #09 - Property Binding e Interpolação
+
