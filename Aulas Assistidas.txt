@@ -20,3 +20,5 @@
 
 - Curso Angular #10 - Class e Style binding
 
+- Curso Angular #11 - Event binding
+
