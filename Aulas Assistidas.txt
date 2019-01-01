@@ -26,3 +26,5 @@
 
 - Curso Angular #13 - Reusando Componentes com Input properties
 
+- Curso Angular #14 - Emitindo Eventos com Output properties
+
