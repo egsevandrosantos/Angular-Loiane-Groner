@@ -1,10 +1,10 @@
-- Curso Angular #01: Introdução
+- Curso Angular #01 - Introdução
 
 - Novidades Angular 4.x e CLI
 
-- Curso Angular #02: Ambiente de Desenvolvimento (Node.JS, TypeScript, Angular CLI)
+- Curso Angular #02 - Ambiente de Desenvolvimento (Node.JS, TypeScript, Angular CLI)
 
-- Curso Angular #03: Hello, World! Criando primeiro projeto e o primeiro Componente
+- Curso Angular #03 - Hello, World! Criando primeiro projeto e o primeiro Componente
 
 - Curso Angular #04 - Introdução ao TypeScript para Angular
 
@@ -27,4 +27,6 @@
 - Curso Angular #13 - Reusando Componentes com Input properties
 
 - Curso Angular #14 - Emitindo Eventos com Output properties
+
+- Curso Angular #15 - Ciclo de vida do Componente
 
