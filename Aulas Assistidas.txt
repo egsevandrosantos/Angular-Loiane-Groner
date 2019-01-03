@@ -32,3 +32,5 @@
 
 - Curso Angular #16 - Acesso ao DOM e ao Template com ViewChild
 
+- Curso Angular #17 - Angular CLI: Instalação e criação de projetos: ng new e ng serve
+
