@@ -38,3 +38,5 @@
 
 - Curso Angular #19 - Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
 
+- Curso Angular #20 - Angular CLI: ng lint, ng test, ng e2e
+
