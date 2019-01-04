@@ -34,3 +34,5 @@
 
 - Curso Angular #17 - Angular CLI: Instalação e criação de projetos: ng new e ng serve
 
+- Curso Angular #18 - Angular CLI: Criando components, services: ng generate
+
