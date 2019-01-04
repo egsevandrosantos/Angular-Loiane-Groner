@@ -135,5 +135,10 @@
       }
     }
   },
-  "defaultProject": "zero-quatro-diretivas"
+  "defaultProject": "zero-quatro-diretivas",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }

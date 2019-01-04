@@ -36,3 +36,5 @@
 
 - Curso Angular #18 - Angular CLI: Criando components, services: ng generate
 
+- Curso Angular #19 - Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
+
