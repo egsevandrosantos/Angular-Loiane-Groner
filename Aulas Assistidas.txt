@@ -45,3 +45,6 @@
 - Curso Angular #22 - Angular CLI: Gerando build de produção
 
 - Curso Angular #23 - Angular CLI: instalando bibliotecas (bootstrap, jquery, materialize, lodash)
+
+- Curso Angular #24 - Introdução e tipos de diretivas no Angular 2
+
