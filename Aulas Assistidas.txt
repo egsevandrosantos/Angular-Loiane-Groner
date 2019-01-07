@@ -40,3 +40,8 @@
 
 - Curso Angular #20 - Angular CLI: ng lint, ng test, ng e2e
 
+- Curso Angular #21 - Angular CLI: Estrutura do projeto
+
+- Curso Angular #22 - Angular CLI: Gerando build de produção
+
+- Curso Angular #23 - Angular CLI: instalando bibliotecas (bootstrap, jquery, materialize, lodash)
