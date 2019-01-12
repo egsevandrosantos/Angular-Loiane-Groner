@@ -48,3 +48,22 @@
 
 - Curso Angular #24 - Introdução e tipos de diretivas no Angular 2
 
+- Curso Angular #25 - Diretivas: ngIf
+
+- Curso Angular #26 - Diretivas: ngSwitch, ngSwitchCase e ngSwitchDefault
+
+- Curso Angular #27 - Diretivas: ngFor
+
+- Curso Angular #28 - Diretivas: sobre o * e template
+
+- Curso Angular #29 - Diretivas: ngClass
+
+- Curso Angular #30 - Diretivas: ngStyle
+
+- Curso Angular #31 - Operador Elvis ("?")
+
+- Curso Angular #32 - ng-content
+
+- Curso Angular #33 - Criando uma diretiva de atributo
+
+- Curso Angular #34 - Diretivas: HostListener e HostBinding
